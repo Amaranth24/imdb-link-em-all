@@ -896,6 +896,31 @@
     "category": "subtitles"
   },
   {
+    "id": "titrari",
+    "title": "Titrari.ro",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUklEQVQ4jWP4TyFggDMYGOAYxscljsJHMY2BgWg2RQag8KnqAnIAhgEEA42BgbABxNAkuwDdAopdQLtAxOYiolMiLgPw0sS6AKeB5LiAJC8QAgCeHTD6g6g9uQAAAABJRU5ErkJggg==",
+    "url": "https://www.titrari.ro/index.php?page=cautarecutare&z7=&z2=&z5={{IMDB_ID}}&z3=-1&z4=-1&z8=1&z9=All&z11=0&z6=0",
+    "noResultsMatcher": "1-0/0",
+    "category": "subtitles"
+  },
+  {
+    "id": "subs_ro",
+    "title": "Subs.ro",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB70lEQVQ4T52Sz0siYRjHv69jvqOORa42IsUSSVCHyPYW5F8QQYeiQ3TrFlgJQYfYICEio0BIy4XYCoSOQf9BdQvskEGwG2Sjjf1YCq01k2ma3WaaKFr3vb3v8/1+3uf78JDJNjrkPpPC/AXKOqcuggsn00m+8VT69KssryoWXADZoFT6P/sfF4m/AzBQCtfgoKwgEFdWUMrl3vyHfH8D8GVvD5nlZaSXlsD396N2ZEQxJ3w+lPJ5HYjEWFYXwbu9rQh+jI3hZncXnNeLhrk5JHt74ejuRiYW0wMWXwAMZjNatrZUQS6RANfairRsysbjyru1uRn5ZFLVkHnWrHbgGhjA2eqqUmyMRpR2xbU11E9NIR2JoKrDh+LVJVKzIQ0wa9YAvAwQ/wLqZ2Zwn8kgu74Oj2x+Pjc7OxAWFjRA8AWAsdnQEA4rxduDA1Q4naioqcFPvx8P19dw9PTg7ugI+f19DfDVYtEN0SNPvpBKIRUMKiJPNIrjQECJY+/qwtXmpn6I468ABpbF5+lpnExMwFhdDffoqGoQQiHcC4IeEHgFeK7SujrY2tth4nmY3G48ZS/JMYrn57g9PNQiDFutH64yYRgwHAejw4GiKOq2kvjtFumhQHRt/euFVkogQ02muCFr7Cv+Lg9COQkFeyn6CGYzrvfqxi2AAAAAAElFTkSuQmCC",
+    "url": "https://subs.ro/subtitrari/imdbid/{{IMDB_ID}}",
+    "noResultsMatcher": "<div class=\"box-content error404\">",
+    "noResultsMatcher": "Nu exista subtitrari",
+    "category": "subtitles"
+  },
+  {
+    "id": "regielive",
+    "title": "RegieLive",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRUlEQVQ4T2NkIADempvz/fv2vgGkjJ2NoY3v7K03yFoYCRnwylRbgvH7r0MMjIzcLMxM1oIXbjzAa4D34Q+C/z/9kv//758sAzPD64X1zg+INsBzy7O0//8YUhkY/yv//88gCLR1w+Im10yiDABp/vefoY/h/39uoMavjAz/f/1nYJq/uMmlm6ABIGf/ff9t13+G/yYgW5mYmToZ//97zsjH9Wl+kTU7QQO8tr4y+Pfv977/DIxsTAxMkdt9JTbDAoqoQEQxgJnJZbuXxIlRAxBhAE3KW4BhYglMH3Gil24vx0iJ+AIRpPi1rlodkKoF4s9AfAWIz/znYO0SO331BTgvEDIA6ooCYCKLAaYTRaCWV7B8ATYAlJD+ffhhA2IzCXAc2Wor8B5bJntvoKHwh4FB4f/ff1zMXIJHhE+e/EQwNxLKrQABCvARxzdFEQAAAABJRU5ErkJggg==",
+    "url": "https://subtitrari.regielive.ro/cauta.html?s={{IMDB_TITLE}}",
+    "noResultsMatcher": "Nu au fost găsite subtitrări care să corespundă criteriului de căutare.",
+    "category": "subtitles"
+  },
+  {
     "id": "subscene",
     "title": "Subscene",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAwFBMVEUcVXQaUnAbTGgaTmobUG4bWHiHorIcXH4bW30rWnYaRl8aSmQsXntKb4QbVncZQlnD0Nfw8/UcW3wbUGzS3OIZRFylu8elt8MaR2AcWHlYeo0bTGYbS2YcVHIaRFqmvMoaSGEcWXobT2waSGIcV3gZSGMbUm8cWnsbVXXh6OwaSmMbU3IbVHMaTWkZRV0aRFstZIKWrbtpjaIcT2x4lKUcUG0cU3Lv8/a0xc8ZRl1ZfZMZSGF3laZ3l6obVnT///9+zaarAAAA2UlEQVQY0x1O2WKCMBDcHApGCSJFIw1KAIOIgd53u///Vw3u28zOBYG/cNOaZtacoScWgjAIW7PfS/l3LYjlEE7vhyO+b1eE8IpBsDHGHLHr8MPyV0+0Xt8gXov5iqeVc+DjZNPh1tsrxug9eCzhCfFuwZijegkzeYaC/E6M03pZg8d9b/kP4lrrS12ChDc72SPE6PJdCvDryOJxTuka87JUA0zpX4i7HSZKqGEAy9Nn95IgJpEQn0MGtzVa57lSYsiyGNJbe31SXj6O8QEY9fhUKiGy8RDH8T9e2htmWyQ7HAAAAABJRU5ErkJggg==",
