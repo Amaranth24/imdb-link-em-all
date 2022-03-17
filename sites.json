@@ -530,7 +530,7 @@
   },
   {
     "id": "yts",
-    "title": "YTS",
+    "title": "01) YTS",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEUgHiEbICIeIB0dKh8bMxwaQRwWUxgTYBYRbRINdA8Chw4BmgkJpgAAtgAAvwAAygD2IFtIAAAAm0lEQVQI1wGQAG//ACAEMQIiASIiACBlIRAhABACABaAEREAIhEQADoxIqtxi6IiAHkiELy03WEBALcCEG7d2SAQANYQIi3uwgEiANYgEivuQAIQANchACr7IgACAMoiICz3ECEBAJ1AIh/UIgIDAD2wIl+yABA2ABfaEDVBACSkAAGetQEiIntgAAIX38qZrMYgACACKM7ttxASm8omLNhBbCUAAAAASUVORK5CYII=",
     "url": "https://yts.ag/browse-movies/{{IMDB_TITLE}}",
     "noResultsMatcher": "<b>0</b>",
@@ -538,7 +538,7 @@
   },
   {
     "id": "yifytorrent",
-    "title": "YIFY Torrent",
+    "title": "02) YIFY Torrent",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAC/klEQVQokXXS609bdRjA8V/QIGvPKVSg7TmH0ttRonFGQ6JBl/UyX4iXzWwtQkxM8EZGNt2GsHEpboO4ixURHYwQxsal63qRzXkbkZlolkm2OHVzifrClNJC1I3Fl775+qKJZEH/gE+e3/P8vuLuuhbU7hhKOIqtK4oSjqKGo6jdMcqbDmFYu441a9chhEAIQUGRkZJNzZQ2tCFsbaN4kjmqz2Txf7ZE9Zkc7ngGdzKHFplB9oWQ/XX/4jskM7ZdR1G7phDOPaM0XbjBwe+XOfTDMgM/3aJ17k/8ny9RMziL5A1iaxvFtKEB2RfCHNxBxYGzKO0nEK8MTPH+9b94IDWPM5bm4ekMkR+XufjH37x68hsM3hDuyV/RU4voyRx6ahHH4LconROI+zqP0XppmZ4rNwlfvkH/1Vv0XrlJ6PzvBIbPI/mfR+s9TdmL3ZS+0IFlWz/2vlnUzkmE9c0R7kku4Psky5Yvlwh8muXeeBpnPIN2+ByyN4gpUL+ys6kU664hlI4JhLL7GPpHi7gTCzhjaVyxNJ5TaTyJDPZ3ziH76yjZtJWCIiMFRUYKNR2lfRylcxJh3rwdZfcYSsc4rrGreOLzt+P1W3AcuUjFgbNovaex981S+d5XKHuOI+4sr6DQXkWhvQptfwo9sbAKu8au4TpxHdfYNdyTv1A58HUeW7b14xz5jpJnm1DfOoWevB2bAvWUvbSfu5z3U1hZhbH6CbSe6fw/m59rxrpzENkbRN2bWIVlfx2yL7RSmFSCrWUYNRxFSI9vxLx5O8ZHnkTbl1yNvUGsr3+AVPMM0qO1FD/1MlrPNEr7cYStdQRP7DfMwTf+89myN4h74mc8iQU88Qx6Movjwwso7eMIw0M+TIF6DA+u/9/JFW9/jKW5D8vWCLbWEeyRmXyeZY37sB/+guLaRrS9CfRUDk98Hj2ZxR6ZyUeyoWElkuJSbC3D+Twtze/iGJqjuLYR684hnMOXcQzN4Tx6CbVrCumxjUg1T68czCBT/tpBrDsG+QeiHQyMHvQ3wAAAAABJRU5ErkJggg==",
     "url": "https://www.yify-torrent.cc/search/{{IMDB_TITLE}}%20{{IMDB_YEAR}}/p-1/all/all/",
     "noResultsMatcher": "Search 0 Result(s) for",
@@ -547,7 +547,7 @@
   },
   {
     "id": "watchsomuch",
-    "title": "WatchSoMuch (i)",
+    "title": "03) WatchSoMuch (i)",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC2klEQVQ4jY2TXUhTARTH7158EV+EEH0RJXtQhGbqcLebpqQY6mZTmwiaH/MjQ+8Slsyvq3C3Od2mNucUvyY25tUMCpKJaJhojYURpkKJPYjswVgIlg7y34NM/JjQD87T4fwP53/OITiO8SNJMoC4AACey9Xh73J1+F/MnSMnI70wTyw25GSkF3Ic43cS1sQfzm7T4UaN/XCjxu5ea2s92tJEA+CdbQCAR2SlJjNZKUmuxPgYrcvV4a9RqdhGpXJP1dYM51wnFl4b0N3Rgolx0/b72YFsjmP8RKLiSHFmpoSiKJIAwHtWllI92kI95zhrol6n+ymnachpGuZeE+Q0jfIyGQw6Pd5MWNYHjMyNxPgYrSA2bjchlj9IEARBHCxJQzyracNOe/ukdWwUGrUaGrUaBp0ecppGg6IO5l4TzL0mlBdJqvPSoowJsfxBIZ8fejqPZzVt2O3I9TjnOvH25QjG+1j0saXoM6hh7jXBOjYKW3cF7No4m10bZ2NZZfA5M3c+VlVuLcrgduR6Zs25eGdMhrP/Fj7bxJgfq8KKRYxNWxLmdaT7g/FOyaVt7G9ohLPTjGdrUYbGsnhIbkdAcjsCFdlRmFTHYucVH4MqCUbbC9YOlqQhPgW+Ldf/mnrRitlpxmPrrkBPwwOMtKdi2XoPw/p89LGl+DKVP3R2naccbWmif69X7XUZ1ahWjYDWWlDZZkKRsgv5texxk+IRNm1J2J55WO/zoL4v6K9vLNTtGIYGQGstoLUWVKtGIFX0QKroQSf7BCsWMeYtssvzEwRBsKwymDEMf/IWljSfdPcKFMpZyJ4ybkWr7u5VV000tveLK5S6r/m17LE3JFVtEJU2HueWN+0WPG6u4zjG70oBADyWVQbfl5TLbwrT96P41N/o+NQ/wuQ8jUhUHOnTPF8kUZQ0LCzcERh4bSYsLNxBURT5X4VeBAJBkEAgCCJJMkDI54f6encv/wAZNJAUcgy6PQAAAABJRU5ErkJggg==",
     "url": "https://watchsomuchproxy.com/Movie/{{IMDB_ID}}/{{IMDB_TITLE}}-{{IMDB_YEAR}}",
     "noResultsMatcher": "Director:",
@@ -963,14 +963,14 @@
   },
   {
     "id": "titrari",
-    "title": "Titrari.ro",
+    "title": "01) Titrari.ro",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUklEQVQ4jWP4TyFggDMYGOAYxscljsJHMY2BgWg2RQag8KnqAnIAhgEEA42BgbABxNAkuwDdAopdQLtAxOYiolMiLgPw0sS6AKeB5LiAJC8QAgCeHTD6g6g9uQAAAABJRU5ErkJggg==",
     "url": "https://www.titrari.ro/index.php?page=cautarecutare&z7=&z2=&z5={{IMDB_ID}}&z3=-1&z4=-1&z8=1&z9=All&z11=0&z6=0",
     "noResultsMatcher": "1-0/0",
     "category": "subtitles"
   },
   {
-    "id": "subs_ro",
+    "id": "02) subs_ro",
     "title": "Subs.ro",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB70lEQVQ4T52Sz0siYRjHv69jvqOORa42IsUSSVCHyPYW5F8QQYeiQ3TrFlgJQYfYICEio0BIy4XYCoSOQf9BdQvskEGwG2Sjjf1YCq01k2ma3WaaKFr3vb3v8/1+3uf78JDJNjrkPpPC/AXKOqcuggsn00m+8VT69KssryoWXADZoFT6P/sfF4m/AzBQCtfgoKwgEFdWUMrl3vyHfH8D8GVvD5nlZaSXlsD396N2ZEQxJ3w+lPJ5HYjEWFYXwbu9rQh+jI3hZncXnNeLhrk5JHt74ejuRiYW0wMWXwAMZjNatrZUQS6RANfairRsysbjyru1uRn5ZFLVkHnWrHbgGhjA2eqqUmyMRpR2xbU11E9NIR2JoKrDh+LVJVKzIQ0wa9YAvAwQ/wLqZ2Zwn8kgu74Oj2x+Pjc7OxAWFjRA8AWAsdnQEA4rxduDA1Q4naioqcFPvx8P19dw9PTg7ugI+f19DfDVYtEN0SNPvpBKIRUMKiJPNIrjQECJY+/qwtXmpn6I468ABpbF5+lpnExMwFhdDffoqGoQQiHcC4IeEHgFeK7SujrY2tth4nmY3G48ZS/JMYrn57g9PNQiDFutH64yYRgwHAejw4GiKOq2kvjtFumhQHRt/euFVkogQ02muCFr7Cv+Lg9COQkFeyn6CGYzrvfqxi2AAAAAAElFTkSuQmCC",
     "url": "https://subs.ro/subtitrari/imdbid/{{IMDB_ID}}",
@@ -979,7 +979,7 @@
     "category": "subtitles"
   },
   {
-    "id": "regielive",
+    "id": "03) regielive",
     "title": "RegieLive",
     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRUlEQVQ4T2NkIADempvz/fv2vgGkjJ2NoY3v7K03yFoYCRnwylRbgvH7r0MMjIzcLMxM1oIXbjzAa4D34Q+C/z/9kv//758sAzPD64X1zg+INsBzy7O0//8YUhkY/yv//88gCLR1w+Im10yiDABp/vefoY/h/39uoMavjAz/f/1nYJq/uMmlm6ABIGf/ff9t13+G/yYgW5mYmToZ//97zsjH9Wl+kTU7QQO8tr4y+Pfv977/DIxsTAxMkdt9JTbDAoqoQEQxgJnJZbuXxIlRAxBhAE3KW4BhYglMH3Gil24vx0iJ+AIRpPi1rlodkKoF4s9AfAWIz/znYO0SO331BTgvEDIA6ooCYCKLAaYTRaCWV7B8ATYAlJD+ffhhA2IzCXAc2Wor8B5bJntvoKHwh4FB4f/ff1zMXIJHhE+e/EQwNxLKrQABCvARxzdFEQAAAABJRU5ErkJggg==",
     "url": "https://subtitrari.regielive.ro/cauta.html?s={{IMDB_TITLE}}",
